@@ -1,16 +1,6 @@
-### Hi there 👋
+👋Merhaba ben Ömrüye Öncül. Dumlupınar Üniversitesi Besyo mezunuyum. Front-end ve tasarım alanlarında kendimi geliştirmekteyim. Öğrenmeye , yeniliklere açık biriyimdir.
 
-
-**omuroncul/omuroncul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on project
-
-- 💬 Ask me about anything
-- 📫 How to reach me: omuroncul@gmail.com
-
-- ⚡ Fun fact: Html , css, bootstrap
+- 🔭Şu an aktif olarak React öğrenmekteyim ve HTML ve CSS kullanarak site geliştirmekteyim.
+- 💬 Yazılıma ilk başladığım zamandan bu yana kendime çok şey katmış olsam da hala bilmediğim birçok şey var ve bu konuları araştırmak,uygulayabilmek için çok meraklıyım.
+-⚡Yazılımdan fırsat buldukça spor yapmayı ve yeni yerleri keşfetmeyi seviyorum.
 
