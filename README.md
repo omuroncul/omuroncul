@@ -4,7 +4,7 @@
 - 💬 Yazılıma ilk başladığım zamandan bu yana kendime çok şey katmış olsam da hala bilmediğim birçok şey var ve bu konuları araştırmak,uygulayabilmek için çok meraklıyım.
 -⚡Yazılımdan fırsat buldukça spor yapmayı ve yeni yerleri keşfetmeyi seviyorum.
 
-Teknolojiler
+
 Aşağıdaki teknolojileri kullanarak projeler oluşturuyorum:
 
 HTML CSS Bootstrap JavaScript React Git GitHub
